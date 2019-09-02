@@ -21,5 +21,8 @@ https://nbviewer.jupyter.org/
 
 2. paste url for this notebook into the location box
 
+Example:
+
+https://github.com/hillc255/AI_JuypterNotebooks/blob/master/Section%201%20-%20Differential%20Privacy.ipynb
 
 

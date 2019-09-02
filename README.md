@@ -13,4 +13,13 @@ conda install numpy jupyter notebook
 conda install pytorch torchvision -c pytorch
 pip install syft
 ```
+## To view notebooks
+
+1. go to Jupyter nbviewer
+
+https://nbviewer.jupyter.org/
+
+2. paste url for this notebook into the location box
+
+
 
